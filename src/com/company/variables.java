@@ -57,8 +57,8 @@ public class variables {
 
         //variables doble
         double doble1 = 11.0 , doble2=30.15D;
-        System.out.println("El valor de doble1" + doble1);
-        System.out.println("El valor de doble1" + doble2);
+        System.out.println("El valor de doble1:" + doble1);
+        System.out.println("El valor de doble2:" + doble2);
         System.out.println();
     }
 }
