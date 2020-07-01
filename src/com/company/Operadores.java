@@ -1,6 +1,6 @@
 package com.company;
 
-public class operadores {
+public class Operadores {
     public static void main(String[] args) {
         //Operadores
         System.out.println("Operadores Aritmeticos");

@@ -1,6 +1,6 @@
 package com.company;
 
-public class variables {
+public class Variables {
     public static void main(String[] args) {
         //hola mundo
         System.out.println("Hola mundo");
