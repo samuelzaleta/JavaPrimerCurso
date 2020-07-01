@@ -1,4 +1,4 @@
-package com.company;
+package com.Main;
 
 public class Metodos {
     int a;

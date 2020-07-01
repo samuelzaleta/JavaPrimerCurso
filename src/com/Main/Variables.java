@@ -1,4 +1,4 @@
-package com.company;
+package com.Main;
 
 public class Variables {
     public static void main(String[] args) {
