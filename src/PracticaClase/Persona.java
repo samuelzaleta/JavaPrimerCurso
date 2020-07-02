@@ -12,4 +12,11 @@ public class Persona {
         System.out.println("Segundo apellido: " +  apellidoMaterno);
 
     }
+    public void cambiarNombre(String nuevoNombre){
+        this.nombre = nuevoNombre;
+    }
+    public String obtenerNombre(){
+        return nombre;
+    }
+
 }
