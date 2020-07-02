@@ -6,7 +6,7 @@ public class ContextoStatic {
         Persona persona2 = new Persona("Alan Eduardo", "Zaleta","Magaña");
         System.out.println("Estado p1:" + persona1);
         System.out.println("Estado p2" + persona2);
-        System.out.println("Contado de personas: " + Persona.getContadorPersonas());
+        System.out.println("Contador de personas: " + Persona.getContadorPersonas());
     }
 }
 class Persona{
