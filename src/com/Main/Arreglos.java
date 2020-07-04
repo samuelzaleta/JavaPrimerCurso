@@ -19,6 +19,11 @@ public class Arreglos {
         System.out.println("Objeto personas indice 0" +  persona[0]);
         System.out.println("Objeto personas2 indice 0" +  persona1[0]);
 
+        String nombre[] ={"Juan","Carmelo","Pancho","Nepomuceno\n"};
+        for (int i =0; i < nombre.length; i++){
+            System.out.println("Imprimir indice de arreglos y su contenido " + "Inidice: "  + i +" Contenido: "+ nombre[i]);
+        }
+
 
     }
 
